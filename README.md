@@ -4,7 +4,7 @@
 This app allows user to click a button which changes differnt attributes on screen.
 
 ### App Walk-though
-<img src="https://im.ezgif.com/tmp/ezgif-1-0895181624.gif" width=200><br>
+<img src="https://i.imgur.com/blqfwPA.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
