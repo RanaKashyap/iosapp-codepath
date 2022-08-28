@@ -1,7 +1,7 @@
 ## Prework-codepath
 
 ### App Description
-This app allows user to click a button which changes differnt attributes on screen.
+This app allows user to click a button which changes different attributes on screen.
 
 ### App Walk-though
 <img src="https://i.imgur.com/blqfwPA.gif" width=200><br>
