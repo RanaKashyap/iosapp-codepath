@@ -19,9 +19,9 @@ class ViewController: UIViewController {
     @IBOutlet weak var LabelBack: UIView!
     @IBOutlet weak var TextLabel: UILabel!
     @IBAction func ButtonClicked(_ sender: Any) {
-        print("hello")
+        print("hello from Kashyap!")
         TextLabel.textColor = UIColor.magenta
-        TextLabel.text = ":)"
+        TextLabel.text = "Goodbye"
         LabelBack.backgroundColor = UIColor.cyan
         ScreenBack.backgroundColor = UIColor.systemPink
     }
